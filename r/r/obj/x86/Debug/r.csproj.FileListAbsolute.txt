@@ -1,0 +1,14 @@
+C:\Users\01HauMax\AppData\Local\Temporary Projects\r\bin\Debug\r.exe
+C:\Users\01HauMax\AppData\Local\Temporary Projects\r\bin\Debug\r.pdb
+C:\Users\01HauMax\AppData\Local\Temporary Projects\r\obj\x86\Debug\r.Form1.resources
+C:\Users\01HauMax\AppData\Local\Temporary Projects\r\obj\x86\Debug\r.Properties.Resources.resources
+C:\Users\01HauMax\AppData\Local\Temporary Projects\r\obj\x86\Debug\r.csproj.GenerateResource.Cache
+C:\Users\01HauMax\AppData\Local\Temporary Projects\r\obj\x86\Debug\r.exe
+C:\Users\01HauMax\AppData\Local\Temporary Projects\r\obj\x86\Debug\r.pdb
+h:\eigene dokumente\visual studio 2010\Projects\r\r\obj\x86\Debug\r.exe
+h:\eigene dokumente\visual studio 2010\Projects\r\r\obj\x86\Debug\r.pdb
+h:\eigene dokumente\visual studio 2010\Projects\r\r\bin\Debug\r.exe
+h:\eigene dokumente\visual studio 2010\Projects\r\r\bin\Debug\r.pdb
+h:\eigene dokumente\visual studio 2010\Projects\r\r\obj\x86\Debug\r.Form1.resources
+h:\eigene dokumente\visual studio 2010\Projects\r\r\obj\x86\Debug\r.Properties.Resources.resources
+h:\eigene dokumente\visual studio 2010\Projects\r\r\obj\x86\Debug\r.csproj.GenerateResource.Cache
